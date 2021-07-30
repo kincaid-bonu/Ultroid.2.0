@@ -22,9 +22,9 @@ autopic_2: "No Results found for `{}`"
 autopic_3: "Got a Collection `{}` related to your search !\nStarting Autopic !"
 
 # inline
-inline_1: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)\n\n**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\nPʟᴜɢɪɴs ~ {}**"
-inline_2: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)\n\n**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\nAᴅᴅᴏɴs ~ {}**"
-inline_3: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)\n\n**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\nAᴅᴅᴏɴs ~ {}\n\nDᴏ **`.setredis ADDONS True`** ᴀɴᴅ ʀᴇsᴛᴀʀᴛ ᴛᴏ ɢᴇᴛ ᴀᴅᴅᴏɴs.**"
+inline_1: "[мα»gяσυρ](t.me/PrimeFlix_Chats)\n\n**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\nPʟᴜɢɪɴs ~ {}**"
+inline_2: "[мα»gяσυρ](t.me/PrimeFlix_Chats)\n\n**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\nAᴅᴅᴏɴs ~ {}**"
+inline_3: "[мα»gяσυρ](t.me/PrimeFlix_Chats)\n\n**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\nAᴅᴅᴏɴs ~ {}\n\nDᴏ **`.setredis ADDONS True`** ᴀɴᴅ ʀᴇsᴛᴀʀᴛ ᴛᴏ ɢᴇᴛ ᴀᴅᴅᴏɴs.**"
 inline_4: "** Bᴏᴛ Oғ {}\n\nMᴀɪɴ Mᴇɴᴜ\n\nPʟᴜɢɪɴs ~ {}\nAᴅᴅᴏɴs ~ {}\nTᴏᴛᴀʟ Cᴏᴍᴍᴀɴᴅs ~ {}**"
 inline_5: "**Mᴇɴᴜ Hᴀs Bᴇᴇɴ Cʟᴏsᴇᴅ**"
 
@@ -47,9 +47,9 @@ afk_7: "Currently AFK with reason {}"
 afk_8: "Currently AFK."
 
 # bot
-alive_1: "**The Ultroid Userbot...**\n\n**{}**\n\n┏━━━━━━━━━━━━━━━━━━━━━\n┣ **Owner** - `{}`\n┣ **Version** - `{}`\n┣ **Py-Ultroid** - `{}`\n┣ **UpTime** - `{}`\n┣ **Python** - `{}`\n┣ **Telethon** - `{}`\n┣ **Branch** - `{}`\n┗━━━━━━━━━━━━━━━━━━━━━"
+alive_1: "**𓇽︎CLÆ͜͡Ｙ's 🇦​🇸​🇸​🇮​🇸​🇹​🇦​🇳​🇹​𓇽︎**\n\n**{}**\n\n**мα»σωиєя** - `{}`\n┣ **мα~νєяѕισи** - `{}`\n**υρ~тιмє** - `{}`\n**ρутнσи** - `{}`\n**тєℓєтнσи** - `{}`\n  🇦​🇸​🇸​🇮​🇸​🇹​🇦​🇳​🇹 ᵒᶠ ᶜˡᵃᵉʸ​"
 log: "**Heroku** Ultroid Logs.\nPasted [here]({}) too!"
-ping: "**Pong !!** `{}ms`\n**Uptime** - `{}`"
+ping: "**Pong !!** `{}ms`\n**Uptime** - `{}`\n  🇦​🇸​​🇸​🇮​🇸​🇹​🇦​🇳​🇹 ᵒᶠ ˡᵃᵉʸ​"
 usage: "**⚙️ Dyno Usage ⚙️**:\n\n-> **Dyno usage for** `{}`:\n  •  **{}h**  **{}m |** `[{}%]`\n-> **Dyno hours quota remaining this month**:\n  •  **{}h**  **{}m |** `[{}%]`\n\n**Total Disk Space**: `{}`\n**Used**: `{}`\n**Free**: `{}`\n\n**📊 Data Usage 📊**\n**Upload**: `{}`\n**Down**: `{}`\n\n**CPU**: `{}%`\n**RAM**: `{}%`\n**DISK**: `{}%`"
 usage_simple: "**Total Disk Space**: `{}`\n**Used**: `{}`\n**Free**: `{}`\n\n**📊 Data Usage 📊**\n**Upload**: `{}`\n**Down**: `{}`\n\n**CPU**: `{}%`\n**RAM**: `{}%`\n**DISK**: `{}%`"
 shutdown: "GoodBye {}.\n`Shutting down...`"
@@ -72,7 +72,7 @@ chats_2: "`Cant delete this chat`"
 chats_3: "`I m not an admin`"
 chats_4: "#Deleted\nDeleted {}"
 chats_5: "Your [{}]({}) Group Made Boss!"
-chats_6: "Join @TeamUltroid"
+chats_6: "נσιи» **@PrimeFlix_Chats**"
 
 # converter
 cvt_1: "Reply to any media/Document."
@@ -134,7 +134,7 @@ gdrive_6: "`Go to `{}` and send ``/auth.`"
 gdrive_7: "**Successfully uploaded the file to G-Drive :**\n\n[{}]({})"
 
 # pmpermit
-pmperm_1: "Please wait for me to respond or you will be blocked and reported as spam!!"
+pmperm_1: "ρℓєαѕє ωαιт fσя мє ~тσ яєѕρσи∂\nɪғ ᴜ ᴋᴇᴇᴘ sᴘᴀᴍᴍɪɴɢ; υ ωιℓℓ вє яєρσятє∂\n   » 🇦​🇸​🇸​🇮​🇸​🇹​🇦​🇳​🇹 ᵒᶠ ᶜˡᵃᵉʸ​!!"
 pmperm_2: "Eyy, I told you not to spam!\nYou've been blocked and reported, for now."
 pmperm_3: "Reply to someone's message or try this command in private."
 
